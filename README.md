@@ -76,6 +76,5 @@ The main goal of this activity is to help Lending Club reduce credit losses. Thi
 
 - This project was supported by live session of upGrad  on the learning platform which really helped in planning.
 
-## Collaborators
 
 Created by Alaap Hasan
